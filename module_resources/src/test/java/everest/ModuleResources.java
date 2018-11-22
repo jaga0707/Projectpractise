@@ -15,6 +15,7 @@ class ModuleResources
 	{
 		ModuleResources obj =new ModuleResources();
 		obj.m1();//calling m1 method 
+//new line in file 4
 		
 	}
 }
