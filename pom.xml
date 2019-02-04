@@ -13,7 +13,6 @@
 <modules>
 <module> module_resources</module>
 <module> module_report</module>
-<module> module_map</module>
 <module> module_alarm</module>
 </modules>
   <properties>
