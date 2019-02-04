@@ -16,7 +16,7 @@ class ModuleMap
 	public static void main(String[] args) 
 	{
 		System.out.println("Checking for instance,local,static variable can be same or not");
-		Vari1 obj1=new Vari1();
+		ModuleMap obj1=new ModuleMap();
 		obj1.m1();
 	}
 }
