@@ -152,7 +152,7 @@
 <plugin>
 <groupId>org.jacoco</groupId>
 <artifactId>jacoco-maven-plugin</artifactId>
-<version>0.5.5.201112152213</version>
+<version>0.7.2014</version>
 <configuration>
 <destFile>/opt/myjenkinsproject/workspace/job_for_advanced/target/coverage-reports/jacoco-unit.exec</destFile>
 <dataFile>${basedir}/target/coverage-reports/jacoco-unit.exec</dataFile>
