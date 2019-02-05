@@ -188,7 +188,7 @@
 <plugin>
 <groupId>ord.codehaus.mojo</groupId>
 <artifactId>sonar-maven-plugin</artifactId>
-<version>2.2<version>
+<version>2.2</version>
 </plugin>
     </plugins>
   </build>
