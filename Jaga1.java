@@ -4,5 +4,6 @@ class Jaga1
 	{
 		system.out.println("Hello World!");
 system.out.print("hai");
+system.out.println("thankyou");
 	}
 }
