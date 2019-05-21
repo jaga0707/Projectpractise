@@ -18,6 +18,7 @@ class ModuleMap
 		System.out.println("Checking for instance,local,static variable can be same or not");
 		ModuleMap obj1=new ModuleMap();
 		obj1.m1();
+		System.out.println("added 1 line");
 	}
 }
 // instance variable and local variable can be same 
